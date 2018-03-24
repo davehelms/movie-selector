@@ -1,0 +1,20 @@
+{
+  "name": "movie-selector",
+  "version": "1.0.0",
+  "description": "An application that takes an input string for a movie title you like, which will produce the most likely recommendation for the next movie to watch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "selector"
+  ],
+  "author": "Dave Helms",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "imdb-api": "^3.1.2",
+    "request": "^2.85.0"
+  }
+}
