@@ -13,8 +13,11 @@
   "author": "Dave Helms",
   "license": "ISC",
   "dependencies": {
+    "consolidate": "^0.15.1",
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "imdb-api": "^3.1.2",
+    "mustache": "^2.3.0",
     "request": "^2.85.0"
   }
 }
